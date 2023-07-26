@@ -5,7 +5,7 @@
 
 
 - 🔭 Eu sou formado em Antropologia e mais recentemente em Análise de Desenvolvimento de Sistemas.
-- 🌱 Estou buscando minha primeira vaga em Tecnologia e estou aprendendo Java e Angular.
+- 🌱 Estou buscando minha primeira vaga em Tecnologia
 - 💬 Durante esse pro já tive contato com JavaScript, Python, HTML e CSS.
 - 😄 Pronouns: Ele/Él/He
 
