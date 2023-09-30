@@ -1,12 +1,11 @@
 ###  👋
 
 # Oi, me chamo Walter Andrade!
-### Que bom ter você por aqui 👯
 
 
-- 🔭 Eu sou formado em Antropologia e mais recentemente em Análise de Desenvolvimento de Sistemas.
-- 🌱 Estou buscando minha primeira vaga em Tecnologia
-- 💬 Durante esse pro já tive contato com JavaScript, Python, HTML e CSS.
+- 🔭 Eu sou formado em Antropologia e em Análise de Desenvolvimento de Sistemas.
+- 🌱 Estou buscando minha primeira vaga em Tecnologia.
+- 💬 Tenho familiaridade com JavaScript, Python, HTML e CSS.
 - 😄 Pronouns: Ele/Él/He
 
 <br>
